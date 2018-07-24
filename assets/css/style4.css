@@ -19,12 +19,13 @@
 
 body {
 	background-image: url(../images/stripes.jpg);
+	font-family: 'Inconsolata', monospace;
 }
 
 
-/* .wire{
-	border: 1px solid red;
-} */
+ .wire{
+	/*border: 1px solid red;*/
+} 
 
 
 
@@ -174,7 +175,8 @@ footer{
     .fom{
         background-color: maroon;
         color: white;
-        margin-left: 200px;
+        /*margin-left: 120px;*/
+        width: 100%;
     }
 
 }
@@ -256,9 +258,9 @@ footer{
     
     }
     .fom{
-        background-color: blue;
+        background-color: maroon;
         color: white;
-        margin-left: 300px;
+        margin-left: 250px;
     }
 
 
@@ -340,9 +342,9 @@ footer{
     
     }
     .fom{
-        background-color: blue;
+        background-color: maroon;
         color: white;
-        margin-left: 50px;
+        margin-left: 10px;
     }
 
 }

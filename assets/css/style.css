@@ -19,6 +19,8 @@
 
 body {
 	background-image: url(../images/stripes.jpg);
+	font-family: 'Inconsolata', monospace;
+
 }
 
 
@@ -212,9 +214,8 @@ footer{
 	.img-thumbnail {
 		height:300px;
 		width:500px;
-		background-color: rgba(0, 0, 0, 0.5);	
-		position: relative;
-		margin-left:110px;
+		background-color: rgba(0, 0, 0, 0.5);
+		/*margin-left:110px;*/
 	}
 
 	.footing{

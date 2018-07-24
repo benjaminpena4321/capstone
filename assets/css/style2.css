@@ -48,7 +48,9 @@ body {
 	background-color:rgba(101,67,35, 0.5);
 }
 
-
+body {
+	font-family: 'Inconsolata', monospace;
+}
 
 
 
@@ -147,7 +149,7 @@ footer{
 	.menupic {
 		height: 150px;
 		width: 150px;
-		margin-left: 580px;
+		margin-left: 540px;
 		
 	}
 
